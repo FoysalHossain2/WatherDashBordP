@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.container {
+  align-items: center;
+  padding: 1.25rem,
+}
