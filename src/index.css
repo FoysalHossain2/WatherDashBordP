@@ -1,6 +1,10 @@
 @import "tailwindcss";
 
-.container {
+.HeadaerContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
   align-items: center;
+  margin: 0 auto;
   padding: 1.25rem,
 }
